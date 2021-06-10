@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//calcular volumen y area de un prisma
 main() {
     float ancho, alto, profundidad, volumen, area, perimetro;
 
